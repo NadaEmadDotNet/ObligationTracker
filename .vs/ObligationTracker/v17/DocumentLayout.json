@@ -1,0 +1,620 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\ExpensesProject_MVC\\ExpensesTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|f:\\expensesproject_mvc\\expensestracker\\expensestracker\\models\\rpositories\\obligationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|solutionrelative:expensestracker\\models\\rpositories\\obligationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|f:\\expensesproject_mvc\\expensestracker\\expensestracker\\models\\rpositories\\iobligation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|solutionrelative:expensestracker\\models\\rpositories\\iobligation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|f:\\expensesproject_mvc\\expensestracker\\expensestracker\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|solutionrelative:expensestracker\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|f:\\expensesproject_mvc\\expensestracker\\expensestracker\\controllers\\obligationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|solutionrelative:expensestracker\\controllers\\obligationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|f:\\expensesproject_mvc\\expensestracker\\expensestracker\\obligationtracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|solutionrelative:expensestracker\\obligationtracker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|f:\\expensesproject_mvc\\expensestracker\\expensestracker\\obligationtracker.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|solutionrelative:expensestracker\\obligationtracker.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250928022630_newobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExpensesTracker\\Migrations\\20250928022630_newobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_KI5RHLE/Expenses/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_KI5RHLE/Expenses/True/SqlTable/dbo.AspNetUserLogins.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\obj\\Debug\\net8.0\\ExpensesTracker.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExpensesTracker\\obj\\Debug\\net8.0\\ExpensesTracker.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Models\\Obligations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExpensesTracker\\Models\\Obligations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Views\\Obligation\\totalObligations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExpensesTracker\\Views\\Obligation\\totalObligations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|f:\\expensesproject_mvc\\expensestracker\\expensestracker\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|solutionrelative:expensestracker\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|f:\\expensesproject_mvc\\expensestracker\\expensestracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|solutionrelative:expensestracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|f:\\expensesproject_mvc\\expensestracker\\expensestracker\\views\\obligation\\addobligation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|solutionrelative:expensestracker\\views\\obligation\\addobligation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|f:\\expensesproject_mvc\\expensestracker\\expensestracker\\models\\obligation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|solutionrelative:expensestracker\\models\\obligation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|f:\\expensesproject_mvc\\expensestracker\\expensestracker\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|solutionrelative:expensestracker\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|f:\\expensesproject_mvc\\expensestracker\\expensestracker\\migrations\\20250928022714_addclientrelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|solutionrelative:expensestracker\\migrations\\20250928022714_addclientrelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|f:\\expensesproject_mvc\\expensestracker\\expensestracker\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|solutionrelative:expensestracker\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|f:\\expensesproject_mvc\\expensestracker\\expensestracker\\views\\obligation\\showallobligations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|solutionrelative:expensestracker\\views\\obligation\\showallobligations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|f:\\expensesproject_mvc\\expensestracker\\expensestracker\\migrations\\20250928023051_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|solutionrelative:expensestracker\\migrations\\20250928023051_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|f:\\expensesproject_mvc\\expensestracker\\expensestracker\\migrations\\20250928022942_foreignkeyofclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|solutionrelative:expensestracker\\migrations\\20250928022942_foreignkeyofclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|f:\\expensesproject_mvc\\expensestracker\\expensestracker\\migrations\\20250924130517_valid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|solutionrelative:expensestracker\\migrations\\20250924130517_valid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|f:\\expensesproject_mvc\\expensestracker\\expensestracker\\views\\obligation\\editobligation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|solutionrelative:expensestracker\\views\\obligation\\editobligation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|f:\\expensesproject_mvc\\expensestracker\\expensestracker\\models\\services\\obligationsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|solutionrelative:expensestracker\\models\\services\\obligationsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|f:\\expensesproject_mvc\\expensestracker\\expensestracker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|solutionrelative:expensestracker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|f:\\expensesproject_mvc\\expensestracker\\expensestracker\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|solutionrelative:expensestracker\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|f:\\expensesproject_mvc\\expensestracker\\expensestracker\\models\\services\\iobligationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|solutionrelative:expensestracker\\models\\services\\iobligationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|f:\\expensesproject_mvc\\expensestracker\\expensestracker\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|solutionrelative:expensestracker\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|f:\\expensesproject_mvc\\expensestracker\\expensestracker\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|solutionrelative:expensestracker\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|f:\\expensesproject_mvc\\expensestracker\\expensestracker\\migrations\\20250923122120_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|solutionrelative:expensestracker\\migrations\\20250923122120_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|f:\\expensesproject_mvc\\expensestracker\\expensestracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|solutionrelative:expensestracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|f:\\expensesproject_mvc\\expensestracker\\expensestracker\\models\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|solutionrelative:expensestracker\\models\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|f:\\expensesproject_mvc\\expensestracker\\expensestracker\\migrations\\20250921212056_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|solutionrelative:expensestracker\\migrations\\20250921212056_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|f:\\expensesproject_mvc\\expensestracker\\expensestracker\\models\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|solutionrelative:expensestracker\\models\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|f:\\expensesproject_mvc\\expensestracker\\expensestracker\\migrations\\20250920162759_obligationtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|solutionrelative:expensestracker\\migrations\\20250920162759_obligationtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|f:\\expensesproject_mvc\\expensestracker\\expensestracker\\migrations\\20250918192128_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CD26DC-BED5-45F1-A594-8CDDE2CA49CD}|ExpensesTracker\\ObligationTracker.csproj|solutionrelative:expensestracker\\migrations\\20250918192128_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Controllers\\AccountController.cs",
+              "ToolTip": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ExpensesTracker\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T18:53:40.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ObligationTracker.csproj",
+              "DocumentMoniker": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\ObligationTracker.csproj",
+              "RelativeDocumentMoniker": "ExpensesTracker\\ObligationTracker.csproj",
+              "ToolTip": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\ObligationTracker.csproj",
+              "RelativeToolTip": "ExpensesTracker\\ObligationTracker.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-02T09:16:08.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Program.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Program.cs",
+              "ToolTip": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Program.cs",
+              "RelativeToolTip": "ExpensesTracker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T19:11:20.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddObligation.cshtml",
+              "DocumentMoniker": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Views\\Obligation\\AddObligation.cshtml",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Views\\Obligation\\AddObligation.cshtml",
+              "ToolTip": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Views\\Obligation\\AddObligation.cshtml",
+              "RelativeToolTip": "ExpensesTracker\\Views\\Obligation\\AddObligation.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T10:10:02.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Obligation.cs",
+              "DocumentMoniker": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Models\\Obligation.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Models\\Obligation.cs",
+              "ToolTip": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Models\\Obligation.cs",
+              "RelativeToolTip": "ExpensesTracker\\Models\\Obligation.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T17:47:48.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ObligationController.cs",
+              "DocumentMoniker": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Controllers\\ObligationController.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Controllers\\ObligationController.cs",
+              "ToolTip": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Controllers\\ObligationController.cs",
+              "RelativeToolTip": "ExpensesTracker\\Controllers\\ObligationController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T17:12:25.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IObligation.cs",
+              "DocumentMoniker": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Models\\Rpositories\\IObligation.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Models\\Rpositories\\IObligation.cs",
+              "ToolTip": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Models\\Rpositories\\IObligation.cs",
+              "RelativeToolTip": "ExpensesTracker\\Models\\Rpositories\\IObligation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T15:52:50.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ObligationRepo.cs",
+              "DocumentMoniker": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Models\\Rpositories\\ObligationRepo.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Models\\Rpositories\\ObligationRepo.cs",
+              "ToolTip": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Models\\Rpositories\\ObligationRepo.cs",
+              "RelativeToolTip": "ExpensesTracker\\Models\\Rpositories\\ObligationRepo.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T20:38:44.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ExpensesTracker\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T19:11:52.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ObligationTracker",
+              "DocumentMoniker": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\ObligationTracker.csproj",
+              "RelativeDocumentMoniker": "ExpensesTracker\\ObligationTracker.csproj",
+              "ToolTip": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\ObligationTracker.csproj",
+              "RelativeToolTip": "ExpensesTracker\\ObligationTracker.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-02T09:16:06.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Models\\ApplicationUser.cs",
+              "ToolTip": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "ExpensesTracker\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T19:24:29.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250928022714_AddClientRelation.cs",
+              "DocumentMoniker": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250928022714_AddClientRelation.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Migrations\\20250928022714_AddClientRelation.cs",
+              "ToolTip": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250928022714_AddClientRelation.cs",
+              "RelativeToolTip": "ExpensesTracker\\Migrations\\20250928022714_AddClientRelation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T02:27:14.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Models\\ErrorViewModel.cs",
+              "ToolTip": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ExpensesTracker\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T19:00:56.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ShowAllObligations.cshtml",
+              "DocumentMoniker": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Views\\Obligation\\ShowAllObligations.cshtml",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Views\\Obligation\\ShowAllObligations.cshtml",
+              "ToolTip": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Views\\Obligation\\ShowAllObligations.cshtml",
+              "RelativeToolTip": "ExpensesTracker\\Views\\Obligation\\ShowAllObligations.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T21:44:38.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250928023051_update.cs",
+              "DocumentMoniker": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250928023051_update.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Migrations\\20250928023051_update.cs",
+              "ToolTip": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250928023051_update.cs",
+              "RelativeToolTip": "ExpensesTracker\\Migrations\\20250928023051_update.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T02:30:51.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250928022942_foreignkeyofclient.cs",
+              "DocumentMoniker": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250928022942_foreignkeyofclient.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Migrations\\20250928022942_foreignkeyofclient.cs",
+              "ToolTip": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250928022942_foreignkeyofclient.cs",
+              "RelativeToolTip": "ExpensesTracker\\Migrations\\20250928022942_foreignkeyofclient.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T02:29:42.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250928022630_newobl.cs",
+              "DocumentMoniker": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250928022630_newobl.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Migrations\\20250928022630_newobl.cs",
+              "ToolTip": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250928022630_newobl.cs",
+              "RelativeToolTip": "ExpensesTracker\\Migrations\\20250928022630_newobl.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T02:26:31.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250924130517_valid.cs",
+              "DocumentMoniker": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250924130517_valid.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Migrations\\20250924130517_valid.cs",
+              "ToolTip": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250924130517_valid.cs",
+              "RelativeToolTip": "ExpensesTracker\\Migrations\\20250924130517_valid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T13:05:17.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EditObligation.cshtml",
+              "DocumentMoniker": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Views\\Obligation\\EditObligation.cshtml",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Views\\Obligation\\EditObligation.cshtml",
+              "ToolTip": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Views\\Obligation\\EditObligation.cshtml",
+              "RelativeToolTip": "ExpensesTracker\\Views\\Obligation\\EditObligation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T09:58:08.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ObligationsService.cs",
+              "DocumentMoniker": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Models\\Services\\ObligationsService.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Models\\Services\\ObligationsService.cs",
+              "ToolTip": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Models\\Services\\ObligationsService.cs",
+              "RelativeToolTip": "ExpensesTracker\\Models\\Services\\ObligationsService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T19:10:02.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAPIUAAAAAAAAAAAjwBUVAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-09-23T17:07:12.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ExpensesTracker\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBJwDQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T18:49:14.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LogIn.cshtml",
+              "DocumentMoniker": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Views\\Account\\LogIn.cshtml",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Views\\Account\\LogIn.cshtml",
+              "ToolTip": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Views\\Account\\LogIn.cshtml",
+              "RelativeToolTip": "ExpensesTracker\\Views\\Account\\LogIn.cshtml",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAwwFsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T11:59:50.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IObligationService.cs",
+              "DocumentMoniker": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Models\\Services\\IObligationService.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Models\\Services\\IObligationService.cs",
+              "ToolTip": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Models\\Services\\IObligationService.cs",
+              "RelativeToolTip": "ExpensesTracker\\Models\\Services\\IObligationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T18:49:28.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.AspNetUsers.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_KI5RHLE/Expenses/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/DESKTOP_KI5RHLE/Expenses/True/SqlTable/dbo.AspNetUsers.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-23T18:17:17.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbo.AspNetUserLogins.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_KI5RHLE/Expenses/True/SqlTable/dbo.AspNetUserLogins.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/DESKTOP_KI5RHLE/Expenses/True/SqlTable/dbo.AspNetUserLogins.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-23T18:19:45.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Views\\Account\\Register.cshtml",
+              "ToolTip": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "ExpensesTracker\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T17:06:05.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ExpensesTracker\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-23T16:44:59.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20250923122120_new.cs",
+              "DocumentMoniker": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250923122120_new.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Migrations\\20250923122120_new.cs",
+              "ToolTip": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250923122120_new.cs",
+              "RelativeToolTip": "ExpensesTracker\\Migrations\\20250923122120_new.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T12:21:20.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Obligations.cs",
+              "DocumentMoniker": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Models\\Obligations.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Models\\Obligations.cs",
+              "ToolTip": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Models\\Obligations.cs",
+              "RelativeToolTip": "ExpensesTracker\\Models\\Obligations.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T15:19:00.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\appsettings.json",
+              "RelativeDocumentMoniker": "ExpensesTracker\\appsettings.json",
+              "ToolTip": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\appsettings.json",
+              "RelativeToolTip": "ExpensesTracker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-18T19:20:03.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RegisterVm.cs",
+              "DocumentMoniker": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Models\\ViewModels\\RegisterVm.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Models\\ViewModels\\RegisterVm.cs",
+              "ToolTip": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Models\\ViewModels\\RegisterVm.cs",
+              "RelativeToolTip": "ExpensesTracker\\Models\\ViewModels\\RegisterVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T18:54:50.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "totalObligations.cshtml",
+              "DocumentMoniker": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Views\\Obligation\\totalObligations.cshtml",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Views\\Obligation\\totalObligations.cshtml",
+              "ToolTip": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Views\\Obligation\\totalObligations.cshtml",
+              "RelativeToolTip": "ExpensesTracker\\Views\\Obligation\\totalObligations.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T20:48:05.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20250921212056_add.cs",
+              "DocumentMoniker": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250921212056_add.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Migrations\\20250921212056_add.cs",
+              "ToolTip": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250921212056_add.cs",
+              "RelativeToolTip": "ExpensesTracker\\Migrations\\20250921212056_add.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T21:20:57.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LogInVM.cs",
+              "DocumentMoniker": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Models\\ViewModels\\LogInVM.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Models\\ViewModels\\LogInVM.cs",
+              "ToolTip": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Models\\ViewModels\\LogInVM.cs",
+              "RelativeToolTip": "ExpensesTracker\\Models\\ViewModels\\LogInVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T19:55:03.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20250920162759_obligationTable.cs",
+              "DocumentMoniker": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250920162759_obligationTable.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Migrations\\20250920162759_obligationTable.cs",
+              "ToolTip": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250920162759_obligationTable.cs",
+              "RelativeToolTip": "ExpensesTracker\\Migrations\\20250920162759_obligationTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T16:27:59.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20250918192128_initial.cs",
+              "DocumentMoniker": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250918192128_initial.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Migrations\\20250918192128_initial.cs",
+              "ToolTip": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250918192128_initial.cs",
+              "RelativeToolTip": "ExpensesTracker\\Migrations\\20250918192128_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T19:21:28.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExpensesTracker.AssemblyInfo.cs",
+              "DocumentMoniker": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\obj\\Debug\\net8.0\\ExpensesTracker.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\obj\\Debug\\net8.0\\ExpensesTracker.AssemblyInfo.cs",
+              "ToolTip": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\obj\\Debug\\net8.0\\ExpensesTracker.AssemblyInfo.cs",
+              "RelativeToolTip": "ExpensesTracker\\obj\\Debug\\net8.0\\ExpensesTracker.AssemblyInfo.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIBJwA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T19:17:39.703Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

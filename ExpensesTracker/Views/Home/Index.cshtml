@@ -1,0 +1,68 @@
+﻿<style>
+    body {
+        background: linear-gradient(135deg, #f0f4ff, #ffffff);
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    h1.display-4 {
+        font-weight: 700;
+        color: #2c3e50;
+    }
+
+    p.lead {
+        font-size: 1.25rem;
+        color: #555;
+    }
+
+    .btn-custom-primary, .btn-custom-success {
+        padding: 12px 35px;
+        border-radius: 50px;
+        font-size: 1.1rem;
+        font-weight: 600;
+        transition: all 0.3s ease;
+        border: none;
+    }
+
+    .btn-custom-primary {
+        background-color: #4e73df;
+        color: white;
+    }
+
+        .btn-custom-primary:hover {
+            background-color: #3651a5;
+            transform: translateY(-3px);
+            box-shadow: 0 6px 18px rgba(0,0,0,0.15);
+        }
+
+    .btn-custom-success {
+        background-color: #1cc88a;
+        color: white;
+    }
+
+        .btn-custom-success:hover {
+            background-color: #169b6b;
+            transform: translateY(-3px);
+            box-shadow: 0 6px 18px rgba(0,0,0,0.15);
+        }
+</style>
+
+    <div class="text-center mt-5">
+        <h1 class="display-4 mb-3">✨ Welcome To Obligation Tracker ✨</h1>
+        <p class="lead mb-5">Track your obligations easily & stay on top of payments.</p>
+    </div>
+@if (User.Identity.IsAuthenticated == false)
+{
+
+
+    <div class="text-center mt-5">
+        <!-- زر Login -->
+        <a href="/Account/Login" class="btn btn-custom-primary me-3 btn-lg">
+            Login
+        </a>
+
+        <!-- زر Register -->
+        <a asp-controller="Account" asp-action="Register" class="btn btn-custom-success btn-lg">
+            Register
+        </a>
+    </div>
+}

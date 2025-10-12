@@ -1,0 +1,112 @@
+﻿@model ExpensesTracker.Models.ViewModels.RegisterVm
+
+@{
+    ViewData["Title"] = "Register";
+}
+
+<style>
+    body {
+        background-color: #f8f8f5; /* Off-White هادي */
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .card {
+        background: #ffffff;
+        border-radius: 12px;
+        box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        padding: 25px;
+        transition: transform 0.2s, box-shadow 0.2s;
+    }
+
+        .card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 20px rgba(0,0,0,0.15);
+        }
+
+    label {
+        color: #8b6d5c; /* بني فاتح */
+        font-weight: 500;
+    }
+
+    .form-control {
+        border-radius: 8px;
+        border: 1px solid #dcd6cf; /* لون هادي للحدود */
+        background-color: #fefcf9; /* قريب من البيج */
+    }
+
+    .btn-primary {
+        background-color: #a18f7c; /* بني هادي */
+        color: white;
+        border: none;
+        transition: background 0.3s;
+    }
+
+        .btn-primary:hover {
+            background-color: #c1b5a7; /* أفتح شوية عند hover */
+        }
+
+    a {
+        color: #8b6d5c;
+        text-decoration: none;
+        transition: color 0.3s;
+    }
+
+        a:hover {
+            color: #c1b5a7;
+        }
+</style>
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-5">
+            <div class="card">
+                <h2 class="text-center mb-4" style="color:#8b6d5c;">Create Account</h2>
+
+                <form asp-action="SaveRegister" method="post">
+                    <div asp-validation-summary="All" class="text-danger mb-3"></div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="UserName" class="form-label"></label>
+                        <input asp-for="UserName" class="form-control" placeholder="Enter your username" />
+                        <span asp-validation-for="UserName" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="Email" class="form-label"></label>
+                        <input asp-for="Email" class="form-control" placeholder="Enter your email" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="Password" class="form-label"></label>
+                        <input asp-for="Password" class="form-control" type="password" placeholder="Enter your password" />
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="ConfirmPassword" class="form-label"></label>
+                        <input asp-for="ConfirmPassword" class="form-control" type="password" placeholder="Confirm your password" />
+                        <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                    </div>
+
+                    <div class="d-grid mb-3">
+                        <button type="submit" class="btn btn-primary btn-block">Register</button>
+                    </div>
+                </form>
+
+                <div class="text-center">
+                    <a asp-action="LogIn" asp-controller="Account">Already have an account? Log In</a>
+                </div>
+                <div class="text-center mt-2">
+                    <a asp-action="Index" asp-controller="Home">Back to Home Page</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

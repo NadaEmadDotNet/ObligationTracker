@@ -1,0 +1,42 @@
+﻿@model ExpensesTracker.Models.Obligation
+
+
+    <!-- Divider -->
+    <div class="text-center mb-5">
+        <hr class="w-50 mx-auto" />
+    </div>
+
+    <!-- Form Section -->
+    <div class="d-flex justify-content-center">
+        <div class="card shadow-lg border-0 p-4" style="width: 500px; background-color: #f9f9fb;">
+            <h4 class="text-center mb-4 text-primary fw-bold">➕ Add New Obligation</h4>
+
+            <form asp-action="SaveAddObligation" method="post">
+                <input type="hidden" asp-for="userId" value="@User.FindFirst(System.Security.Claims.ClaimTypes.NameIdentifier).Value" />
+
+                <div class="form-group mb-3">
+                    <label asp-for="Name" class="form-label fw-semibold"></label>
+                    <input asp-for="Name" class="form-control rounded-3 border-primary shadow-sm" />
+                </div>
+                <div class="form-group mb-3">
+                    <label asp-for="Amount" class="form-label fw-semibold"></label>
+                    <input asp-for="Amount" class="form-control rounded-3 border-primary shadow-sm" />
+                </div>
+                <div class="form-group mb-3">
+                    <label asp-for="PaidAmount" class="form-label fw-semibold"></label>
+                    <input asp-for="PaidAmount" class="form-control rounded-3 border-primary shadow-sm" />
+                </div>
+                <div class="form-group mb-3">
+                    <label asp-for="DueDate" class="form-label fw-semibold"></label>
+                    <input asp-for="DueDate" type="date" class="form-control rounded-3 border-primary shadow-sm" />
+                </div>
+
+                <div class="d-grid">
+                    <button type="submit" class="btn btn-primary btn-lg rounded-pill shadow-sm">
+                        Save Obligation
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
