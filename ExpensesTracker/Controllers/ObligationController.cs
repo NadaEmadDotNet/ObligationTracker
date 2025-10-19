@@ -18,25 +18,18 @@ namespace ExpensesTracker.Controllers
             this.signInManager = signInManager;
 
         }
-        //[HttpGet]
-        //public IActionResult totalObligations()
-        //{
-        //    ViewBag.TotalAmount = _service.GetTotalAmount();
-        //    ViewBag.TotalPaid = _service.GetTotalPaid();
-        //    ViewBag.TotalRemaining = _service.GetTotalRemaining();
-        //    return View(new Obligation());
-        //}
+   
         [HttpGet]
         public async Task<IActionResult> ShowAllObligations()
         {
             var user = await userManager.GetUserAsync(User);
             if (user == null)
             {
-                return RedirectToAction("Login", "Account"); // لو مش لوج إن
+                return RedirectToAction("Login", "Account"); 
             }
 
             var ob = _service.GetAll()
-                             .Where(o => o.userId == user.Id) // فلترة باليوزر الحالي
+                             .Where(o => o.userId == user.Id) 
                              .ToList();
             ViewBag.TotalAmount = ob.Sum(o => o.Amount);
             ViewBag.TotalPaid = ob.Sum(o => o.PaidAmount);
@@ -61,7 +54,7 @@ namespace ExpensesTracker.Controllers
             if (ModelState.IsValid)
             {
                 _service.Add(model);
-                _service.Save(); // ✅ لازم تحطها هنا
+                _service.Save(); 
                 return RedirectToAction("ShowAllObligations");
             }
 
@@ -83,7 +76,7 @@ namespace ExpensesTracker.Controllers
         {
             _service.Delete(id);
             _service.Save();
-            return RedirectToAction("ShowAllObligations"); // بعد الحذف يرجع للعرض
+            return RedirectToAction("ShowAllObligations");
         }
         [HttpGet]
         public IActionResult EditObligation(int id)

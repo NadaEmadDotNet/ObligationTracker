@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AN4sWsWyhzw=",
+  "dgSpecHash": "wIQzAARdiKk=",
   "success": true,
-  "projectFilePath": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\ObligationTracker.csproj",
+  "projectFilePath": "F:\\BIS LEVEL 3\\AUIDT\\مراجعة ورقابة\\ExpensesTracker\\ExpensesTracker\\ObligationTracker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\motaheda\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\motaheda\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
@@ -174,5 +174,15 @@
     "C:\\Users\\motaheda\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\motaheda\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "F:\\BIS LEVEL 3\\AUIDT\\مراجعة ورقابة\\ExpensesTracker\\ExpensesTracker\\ObligationTracker.csproj",
+      "warningLevel": 1,
+      "filePath": "F:\\BIS LEVEL 3\\AUIDT\\مراجعة ورقابة\\ExpensesTracker\\ExpensesTracker\\ObligationTracker.csproj",
+      "targetGraphs": []
+    }
+  ]
 }

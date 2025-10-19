@@ -8257,11 +8257,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\ObligationTracker.csproj",
+      "projectUniqueName": "F:\\BIS LEVEL 3\\AUIDT\\مراجعة ورقابة\\ExpensesTracker\\ExpensesTracker\\ObligationTracker.csproj",
       "projectName": "ObligationTracker",
-      "projectPath": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\ObligationTracker.csproj",
+      "projectPath": "F:\\BIS LEVEL 3\\AUIDT\\مراجعة ورقابة\\ExpensesTracker\\ExpensesTracker\\ObligationTracker.csproj",
       "packagesPath": "C:\\Users\\motaheda\\.nuget\\packages\\",
-      "outputPath": "F:\\ExpensesProject_MVC\\ExpensesTracker\\ExpensesTracker\\obj\\",
+      "outputPath": "F:\\BIS LEVEL 3\\AUIDT\\مراجعة ورقابة\\ExpensesTracker\\ExpensesTracker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8353,5 +8353,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
+    }
+  ]
 }

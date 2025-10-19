@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ObligationTracker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0aa9f98f15025cc60c20047ff3601436a70fa04a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ObligationTracker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ObligationTracker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

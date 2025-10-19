@@ -19,7 +19,7 @@ namespace ExpensesTracker.Models
         [DataType(DataType.Date)]
         public DateTime DueDate { get; set; }
 
-        [Required]  // ده اللي كان سبب "The User field is required."
+        [Required] 
         public string userId { get; set; }
         public bool IsPaid => PaidAmount == Amount;
         public IEnumerable<ValidationResult> Validate(ValidationContext validationContext)

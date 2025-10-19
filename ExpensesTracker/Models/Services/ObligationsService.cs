@@ -45,15 +45,7 @@ namespace ExpensesTracker.Models.Services
         {
             return obligation.GetAll().Sum(t => t.Amount - t.PaidAmount);
         }
-        //public bool IsPaid(int id)
-        //{
-        //    var ob = obligation.GetAll().FirstOrDefault(o => o.Id == id);
-
-        //    if (ob == null)
-        //        return false; // أو ممكن ترمي Exception لو حابة
-
-        //    return ob.PaidAmount >= ob.Amount;
-        //}
+       
         public void Save()
         {
             obligation.Save();

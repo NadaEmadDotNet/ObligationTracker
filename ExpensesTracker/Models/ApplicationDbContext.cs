@@ -16,5 +16,4 @@ public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
         base.OnModelCreating(builder); // ده اللي بيعمل Setup للـ Identity Keys
 
     }
-    // بس جداولك الخاصة زي Expenses
 }
